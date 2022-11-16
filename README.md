@@ -1,6 +1,6 @@
 ### 수업리뷰사이트!
 
-![Unit Tests](![image](https://user-images.githubusercontent.com/76634341/202067293-2781501e-6905-4146-9df0-b5401c9c9e92.png)
+
 
 
 ### springframework_version

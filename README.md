@@ -3,15 +3,17 @@
 
 <h2>실행</h2>
 
-review/
+
 
 ```
+cd review/
 ./gradlew build 
 
 ```
 
-review/build/libs
+
 ```
+cd review/build/libs
 java -jar demo-0.0.1-SNAPSHOT.jar
 ```
 

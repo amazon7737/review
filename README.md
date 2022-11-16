@@ -11,7 +11,13 @@
 ### Gradle_version
 7.5.1
 
+### start
 
+```
+
+git clone https://github.com/amazon7737/review.git
+
+```
 
 ### gradle 빌드
 

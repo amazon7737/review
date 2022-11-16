@@ -1,13 +1,14 @@
 <h1>수업리뷰사이트!</h1>
 ### springframework_version
-# 2.7.5
+2.7.5
+
 # spring-boot-starter-web
 
 ### npm __version
-# 8.19.1
+8.19.1
 
 ### Gradle_version
-# 7.5.1
+7.5.1
 
 
 

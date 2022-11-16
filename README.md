@@ -2,9 +2,12 @@
 
 
 <h2>실행</h2>
+
 review/
+
 ```
 ./gradlew build 
+
 ```
 
 review/build/libs

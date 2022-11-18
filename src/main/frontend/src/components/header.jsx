@@ -12,19 +12,28 @@ const nav_bar = styled.a`
   background-color: red;
 `;
 
+const navbar_brand = styled.a`
+  color: white;
+`;
+
 const Header = () => {
   return (
     <div>
       <div class="header_bar">
         <a class="menu_name" href="localhost:8080">
-          <strong> 살려줘</strong>
+          <strong> 동서대학교 수강후기</strong>
         </a>
       </div>
       <nav_bar class="navbar navbar-expand-lg bg-light">
         <div class="container-fluid">
-          <a class="navbar-brand" href="#">
-            Navbar
-          </a>
+          <navbar_brand href="#">교양선택</navbar_brand>
+
+          <navbar_brand href="#">교양필수</navbar_brand>
+
+          <navbar_brand href="#">전공선택</navbar_brand>
+
+          <navbar_brand href="#">전공필수</navbar_brand>
+
           <button
             class="navbar-toggler"
             type="button"
